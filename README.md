@@ -9,6 +9,8 @@
 [[Sec][01-1~2] 변수와 출력 함수, 변수입력과 연산자](https://valuelog.tistory.com/99)<br>
 [[Sec][01-3~6] 조건문, 반복문, 반복문을 이용한 문제 풀이, 중첩반복문](https://valuelog.tistory.com/100)<br>
 [[Sec][01-7] 문자열과 내장 함수](https://valuelog.tistory.com/102)<br>
-[[Sec][01-8] 리스트와 내장 함수(1)](https://valuelog.tistory.com/105) <br>
+[[Sec][01-8] 리스트와 내장 함수(1)](https://valuelog.tistory.com/105)<br>
+[[Sec][01-9] 리스트와 내장 함수(2)](https://valuelog.tistory.com/106)<br>
+
 
 ## 알고리즘 문제 풀이
