@@ -11,6 +11,7 @@
 [[Sec][01-7] 문자열과 내장 함수](https://valuelog.tistory.com/102)<br>
 [[Sec][01-8] 리스트와 내장 함수(1)](https://valuelog.tistory.com/105)<br>
 [[Sec][01-9] 리스트와 내장 함수(2)](https://valuelog.tistory.com/106)<br>
+[[Sec][01-10] 2차원 리스트 생성과 접근](https://valuelog.tistory.com/107)
 
 
 ## 알고리즘 문제 풀이
